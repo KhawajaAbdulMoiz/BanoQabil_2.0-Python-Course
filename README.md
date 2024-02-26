@@ -22,7 +22,8 @@ Experience mathematical excellence with my versatile calculator. Perform additio
 8. **How to Run**:
 
 Open CMD and type Task_Number_2.py like this:
-![Run](https://github.com/KhawajaAbdulMoiz/BanoQabil_2.0-Python-Course/assets/156238498/b9a88362-bba2-4e07-8d39-b205208e32e3)
+![Run](https://github.com/KhawajaAbdulMoiz/BanoQabil_2.0-Python-Course/assets/156238498/2314acff-3899-4353-91f9-d74a55bd4bb1)
 
+# Output
 
 ![Calculatorimg](https://github.com/KhawajaAbdulMoiz/BanoQabil_2.0-Python-Course/assets/156238498/b1f58859-2bfc-4a98-8945-c222b621601b)
